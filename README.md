@@ -7,7 +7,7 @@ Foi utilizada API intellij idea.
 
 Este projeto Java implementa exemplos de requisições HTTP utilizando os métodos GET e POST.
 
-Tutorial explicando passo a passo o projeto deste repositório.
+Tutorial explicando passo a passo o projeto deste repositório:
 https://simplificandoredes.com/http-requisicoes-get-post-api-java/
 
 ---
