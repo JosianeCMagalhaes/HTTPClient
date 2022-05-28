@@ -4,7 +4,7 @@
 Foi utilizada API intellij idea.
 
 ### Decrição
-------------
+
 Este projeto Java implementa exemplos de requisições HTTP utilizando os métodos GET e POST.
 
 Tutorial explicando passo a passo o projeto deste repositório.
