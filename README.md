@@ -23,4 +23,4 @@ https://simplificandoredes.com/apache-https-server-configurar/
 
 #### Como configurar um servidor web utilizando Apache server:
 
-https://simplificandoredes.com/apache-https-server-configurar/.
+https://simplificandoredes.com/apache-https-server-configurar/
