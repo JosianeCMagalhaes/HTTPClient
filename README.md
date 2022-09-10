@@ -1,7 +1,7 @@
 # HTTPClient
 
 ### IDE
-Foi utilizada API intellij idea.
+Foi utilizada IntelliJ IDEA.
 
 ### Decrição
 
